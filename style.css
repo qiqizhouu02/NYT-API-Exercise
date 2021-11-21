@@ -1,0 +1,39 @@
+.header {
+    background-color: #f67361;
+    height: 100px;
+}
+
+h1 {
+    padding: 27px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-family: "Time New Roman";
+}
+
+label {
+    display: block;
+    padding-top: 25px;
+    text-align: center;
+    margin: auto;
+    font-family: "Arial";
+}
+
+button {
+    background-color: #f67361;
+    color: white;
+    border: #f67361;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    text-align: left;
+    list-style: square;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-align: left;
+    list-style: square;
+}
